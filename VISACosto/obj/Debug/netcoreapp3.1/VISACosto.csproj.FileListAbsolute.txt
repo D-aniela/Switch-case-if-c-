@@ -1,0 +1,13 @@
+C:\Users\Codellege\Documents\VISACosto\VISACosto\bin\Debug\netcoreapp3.1\VISACosto.exe
+C:\Users\Codellege\Documents\VISACosto\VISACosto\bin\Debug\netcoreapp3.1\VISACosto.deps.json
+C:\Users\Codellege\Documents\VISACosto\VISACosto\bin\Debug\netcoreapp3.1\VISACosto.runtimeconfig.json
+C:\Users\Codellege\Documents\VISACosto\VISACosto\bin\Debug\netcoreapp3.1\VISACosto.runtimeconfig.dev.json
+C:\Users\Codellege\Documents\VISACosto\VISACosto\bin\Debug\netcoreapp3.1\VISACosto.dll
+C:\Users\Codellege\Documents\VISACosto\VISACosto\bin\Debug\netcoreapp3.1\VISACosto.pdb
+C:\Users\Codellege\Documents\VISACosto\VISACosto\obj\Debug\netcoreapp3.1\VISACosto.csprojAssemblyReference.cache
+C:\Users\Codellege\Documents\VISACosto\VISACosto\obj\Debug\netcoreapp3.1\VISACosto.AssemblyInfoInputs.cache
+C:\Users\Codellege\Documents\VISACosto\VISACosto\obj\Debug\netcoreapp3.1\VISACosto.AssemblyInfo.cs
+C:\Users\Codellege\Documents\VISACosto\VISACosto\obj\Debug\netcoreapp3.1\VISACosto.csproj.CoreCompileInputs.cache
+C:\Users\Codellege\Documents\VISACosto\VISACosto\obj\Debug\netcoreapp3.1\VISACosto.dll
+C:\Users\Codellege\Documents\VISACosto\VISACosto\obj\Debug\netcoreapp3.1\VISACosto.pdb
+C:\Users\Codellege\Documents\VISACosto\VISACosto\obj\Debug\netcoreapp3.1\VISACosto.genruntimeconfig.cache
